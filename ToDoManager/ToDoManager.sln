@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToDoManager", "ToDoManager.vcxproj", "{D062967F-B9F2-454F-9503-B743E7112473}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimeLine", "..\TimeLine\TimeLine.vcxproj", "{D6E46CF7-3FB2-4E32-AFE8-BCFB41EF4559}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToDoList", "..\ToDoList\ToDoList.vcxproj", "{3D4BDF18-4EF0-43CE-861F-5CED64F715A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D062967F-B9F2-454F-9503-B743E7112473}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D062967F-B9F2-454F-9503-B743E7112473}.Debug|Win32.Build.0 = Debug|Win32
+		{D062967F-B9F2-454F-9503-B743E7112473}.Release|Win32.ActiveCfg = Release|Win32
+		{D062967F-B9F2-454F-9503-B743E7112473}.Release|Win32.Build.0 = Release|Win32
+		{D6E46CF7-3FB2-4E32-AFE8-BCFB41EF4559}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6E46CF7-3FB2-4E32-AFE8-BCFB41EF4559}.Debug|Win32.Build.0 = Debug|Win32
+		{D6E46CF7-3FB2-4E32-AFE8-BCFB41EF4559}.Release|Win32.ActiveCfg = Release|Win32
+		{D6E46CF7-3FB2-4E32-AFE8-BCFB41EF4559}.Release|Win32.Build.0 = Release|Win32
+		{3D4BDF18-4EF0-43CE-861F-5CED64F715A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D4BDF18-4EF0-43CE-861F-5CED64F715A3}.Debug|Win32.Build.0 = Debug|Win32
+		{3D4BDF18-4EF0-43CE-861F-5CED64F715A3}.Release|Win32.ActiveCfg = Release|Win32
+		{3D4BDF18-4EF0-43CE-861F-5CED64F715A3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
