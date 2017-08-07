@@ -7,6 +7,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimeLine", "..\TimeLine\Tim
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToDoList", "..\ToDoList\ToDoList.vcxproj", "{3D4BDF18-4EF0-43CE-861F-5CED64F715A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A8AB1885-A733-463B-9EBA-D67BCE5E0DDB}"
+	ProjectSection(SolutionItems) = preProject
+		..\事务管理解决方案.docx = ..\事务管理解决方案.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
